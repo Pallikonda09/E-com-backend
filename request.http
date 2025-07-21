@@ -1,0 +1,36 @@
+POST http://localhost:5000/api/products
+Content-Type: application/json
+
+{
+  "name": "Fire-Boltt Ninja Call Pro Smart Watch",
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2OXTNsFkH4yQUJGb0IdRMKKl2C8ENe2ezF_U9jlCXiLKjfE8ab6i8Lir0UMgjK65dE9ybUwKT1Ey0okMn42LLaez1Yu30OXqdGyY2jpOfOLp66_6WbcFQyQ",
+  "price": 1999,
+  "category": "Wearables",
+  "brand": "Fire-Boltt",
+  "stock": 50,
+  "rating": 4.4,
+  "reviews": 6200,
+  "description": "Fire-Boltt Ninja Call Pro Smart Watch from Fire-Boltt offers excellent performance in the Wearables category. Rated 4.4 stars by 6200 users. Price: ₹1999. Only 50 left in stock!"
+}
+
+
+### Sign Up
+POST http://localhost:5000/api/auth/signup
+Content-Type: application/json
+
+{
+  "name": "Adita",
+  "email": "adi23@gmail.com",
+  "password": "Aditya@321"
+}
+
+### Sign In
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "adi123@gmail.com",
+  "password": "Aditya@321"
+}
+
+

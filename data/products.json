@@ -1,0 +1,227 @@
+[
+  {
+    
+    "name": "Fire-Boltt Ninja Call Pro Smart Watch",
+    "price": 1999,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2OXTNsFkH4yQUJGb0IdRMKKl2C8ENe2ezF_U9jlCXiLKjfE8ab6i8Lir0UMgjK65dE9ybUwKT1Ey0okMn42LLaez1Yu30OXqdGyY2jpOfOLp66_6WbcFQyQ",
+    "category": "Wearables",
+    "brand": "Fire-Boltt",
+    "stock": 50,
+    "rating": 4.4,
+    "reviews": 6200,
+    "description": "Fire-Boltt Ninja Call Pro Smart Watch from Fire-Boltt offers excellent performance in the Wearables category. Rated 4.4 stars by 6200 users. Price: ₹1999. Only 50 left in stock!"
+
+  },
+  {
+    
+    "name": "boAt Stone 620 Bluetooth Speaker",
+    "price": 1499,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToSCOiHPmnIcbuSUWd_JTqsI9kjXKYdQb7OKvhMGQubHnp1CDhRaZSzpav0yVjUK0hYL9E3tDa5ZakDF--YYKlhujKuQUXFUD3wg45QdPSNWnpRvf0mA0X",
+    "category": "Audio",
+    "brand": "boAt",
+    "stock": 100,
+    "rating": 4.3,
+    "reviews": 3200,
+     "description": "boAt Stone 620 Bluetooth Speaker from boAt offers excellent performance in the Audio category. Rated 4.3 stars by 3200 users. Price: ₹1499. Only 100 left in stock!"
+  },
+{
+    "name": "OnePlus Nord Buds 2r True Wireless Earbuds",
+    "price": 1999,
+    "image": "https://m.media-amazon.com/images/I/61mBc-Yx5KL.jpg",
+    "category": "Audio",
+    "brand": "OnePlus",
+    "stock": 80,
+    "rating": 4.2,
+    "reviews": 4200,
+    "description": "Experience clear sound and deep bass with OnePlus Nord Buds 2r. Designed for long-lasting comfort and equipped with fast pairing and low latency for an immersive wireless experience."
+  },
+  {
+    "name": "ASUS TUF Gaming F15 Laptop",
+    "price": 68990,
+    "image": "https://rukminid2.flixcart.com/image/750/900/xif0q/computer/h/w/b/-original-imagtzvhxxuhzr4g.jpeg?q=90&crop=false",
+    "category": "Laptops",
+    "brand": "ASUS",
+    "stock": 15,
+    "rating": 4.5,
+    "reviews": 1600,
+    "description": "Power through games and multitasking with the ASUS TUF Gaming F15. Featuring Intel i7 processor, RTX graphics, and a high-refresh-rate display, it's built for serious performance."
+  },
+  {
+    "name": "Samsung Galaxy M14 5G",
+    "price": 12990,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCo1E6L2k_LjSVRH4Z7fZWcgoZnxek-4kSXQ&s",
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "stock": 30,
+    "rating": 4.3,
+    "reviews": 7800,
+    "description": "Stay connected with blazing-fast 5G speeds on the Samsung Galaxy M14. With a large battery, powerful processor, and vivid display, it's perfect for everyday use and entertainment."
+  },
+  {
+    "name": "LG 260 L Double Door Refrigerator",
+    "price": 24490,
+    "image": "https://www.lg.com/content/dam/channel/wcms/in/images/refrigerators/gl-i292rpzx_bpzzebn_eail_in_c/gallery/GL-I292RPZX-Refrigerators-Front-View-Bottom-Door-Open-DZ-06.jpg",
+    "category": "Appliances",
+    "brand": "LG",
+    "stock": 10,
+    "rating": 4.6,
+    "reviews": 2100,
+    "description": "Keep your food fresh and organized with the LG 260 L Double Door Refrigerator. Features include auto defrost, inverter compressor, and toughened glass shelves."
+  },
+  {
+    "name": "Canon EOS 1500D DSLR Camera",
+    "price": 38999,
+    "image": "https://m.media-amazon.com/images/I/914hFeTU2-L.jpg",
+    "category": "Cameras",
+    "brand": "Canon",
+    "stock": 20,
+    "rating": 4.5,
+    "reviews": 1400,
+    "description": "Capture memories in high detail with the Canon EOS 1500D. Ideal for beginners, it offers a 24.1MP sensor, WiFi connectivity, and full manual control options."
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "price": 114900,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNi1Glg-z9fqAC7eb2JF6QOzLCXAK7U4_fA&s",
+    "category": "Laptops",
+    "brand": "Apple",
+    "stock": 8,
+    "rating": 4.9,
+    "reviews": 2300,
+    "description": "The Apple MacBook Air M2 is ultrathin and powerful, equipped with the next-gen M2 chip, Retina display, and all-day battery life — perfect for work, play, or creativity on the go."
+  },
+  {
+    "name": "Sony PlayStation 5 Console",
+    "price": 59990,
+    "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-11/22/full/1732254120-8429.jpg?im=FaceCrop,size=(826,465)",
+    "category": "Gaming",
+    "brand": "Sony",
+    "stock": 5,
+    "rating": 4.9,
+    "reviews": 8800,
+    "description": "Experience next-gen gaming with the Sony PlayStation 5. Enjoy lightning-fast load times, stunning visuals, and an immersive DualSense controller."
+  },
+  {
+    "name": "Mi 43 Inch Smart Android LED TV",
+    "price": 25999,
+    "image": "https://m.media-amazon.com/images/I/71a4ZQNqTiL.jpg",
+    "category": "Television",
+    "brand": "Mi",
+    "stock": 25,
+    "rating": 4.4,
+    "reviews": 3200,
+    "description": "Enjoy cinematic viewing with the Mi 43 Inch Smart LED TV. It features Android TV, PatchWall UI, Full HD display, and built-in Chromecast."
+  },
+  {
+    "name": "Noise ColorFit Icon 2 Smartwatch",
+    "price": 1799,
+    "image": "https://www.gonoise.com/cdn/shop/products/Icon2-4.png?v=1681610912",
+    "category": "Wearables",
+    "brand": "Noise",
+    "stock": 60,
+    "rating": 4.2,
+    "reviews": 4100,
+    "description": "The Noise ColorFit Icon 2 blends style and performance. It offers heart rate monitoring, customizable watch faces, and smart notifications for daily convenience."
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3i",
+    "price": 49999,
+    "image": "https://m.media-amazon.com/images/I/61pGi-72gaL._UF1000,1000_QL80_.jpg",
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "stock": 18,
+    "rating": 4.3,
+    "reviews": 1500,
+    "description": "Lightweight and powerful, the Lenovo IdeaPad Slim 3i offers smooth performance with Intel Core processors, fast SSD storage, and a sleek design."
+  },
+  {
+    "name": "Boult Z40 True Wireless Earbuds",
+    "price": 1199,
+    "image": "https://m.media-amazon.com/images/I/71ITkeoYiTL.jpg",
+    "category": "Audio",
+    "brand": "Boult",
+    "stock": 90,
+    "rating": 4.1,
+    "reviews": 2900,
+    "description": "Lightweight and powerful, the Lenovo IdeaPad Slim 3i offers smooth performance with Intel Core processors, fast SSD storage, and a sleek design."
+  },
+  {
+    "name": "Panasonic 1.5 Ton 5 Star AC",
+    "price": 37490,
+    "image": "https://i.gadgets360cdn.com/products/1-5-ton-5-star-inverter-split-ac-cs-nu18wkym-large-101229-170962-1617967785-1.jpeg",
+    "category": "Appliances",
+    "brand": "Panasonic",
+    "stock": 12,
+    "rating": 4.6,
+    "reviews": 1100,
+    "description": "The Samsung Galaxy Tab A8 offers an immersive 10.5'' display, Dolby Atmos sound, and seamless performance for learning, entertainment, and productivity."
+  },
+  {
+    "name": "Samsung Galaxy Tab A8",
+    "price": 16999,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQE0xpIIM46xMQtJX76yleIJDq3WJsZycTdlrk_XzqsF656YLfTynVdgP4B1H6JsLD18cFDYe-PMWpK2VisNNvN0TDO6dQMLhMXELIm2xNHzmnfz93C6vE",
+    "category": "Tablets",
+    "brand": "Samsung",
+    "stock": 33,
+    "rating": 4.3,
+    "reviews": 2300,
+    "description": "The Samsung Galaxy Tab A8 offers an immersive 10.5'' display, Dolby Atmos sound, and seamless performance for learning, entertainment, and productivity."
+  },
+  {
+    "name": "boAt Rockerz 255 Pro+ Neckband",
+    "price": 1199,
+    "image": "https://www.boat-lifestyle.com/cdn/shop/files/R255Pro_-FI_Black03_1300x.jpg?v=1713177293",
+    "category": "Audio",
+    "brand": "boAt",
+    "stock": 120,
+    "rating": 4.4,
+    "reviews": 7600,
+    "description": "The boAt Rockerz 255 Pro+ is a neckband-style Bluetooth earphone offering 40 hours of playback, fast charging, and IPX7 water resistance — ideal for workouts."
+  },
+  {
+    "name": "JBL Go 3 Wireless Ultra Portable Speaker",
+    "price": 2999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvue-W-0qz_51YnZrlIWvho8kQvavhgL1Mg&s",
+    "category": "Audio",
+    "brand": "JBL",
+    "stock": 35,
+    "rating": 4.5,
+    "reviews": 4100,
+    "description": "Compact and rugged, the JBL Go 3 offers powerful audio in a waterproof and dustproof design. Perfect for on-the-go music lovers."
+  },
+  {
+    "name": "HP DeskJet 2331 All-in-One Printer",
+    "price": 3899,
+    "image": "https://wattcoin.in/media/catalog/product/c/0/c06710759.png?store=default&image-type=image",
+    "category": "Accessories",
+    "brand": "HP",
+    "stock": 45,
+    "rating": 4.1,
+    "reviews": 1700,
+    "description": "The HP DeskJet 2331 is an affordable all-in-one printer for home needs. Print, scan, and copy with ease using USB connectivity and compact design."
+  },
+  {
+    "name": "Redmi Note 12 5G",
+    "price": 15999,
+    "image": "https://rukminim2.flixcart.com/image/750/900/xif0q/mobile/0/g/w/note-12-5g-mzb0eiain-redmi-original-imagpgr9ngapjhxq.jpeg?q=90&crop=false",
+    "category": "Mobiles",
+    "brand": "Redmi",
+    "stock": 55,
+    "rating": 4.3,
+    "reviews": 6400,
+    "description": "Redmi Note 12 5G brings next-gen speed with a Snapdragon processor, AMOLED display, and 5000mAh battery — perfect for power users on a budget."
+  },
+  {
+    "name": "Apple Magic Mouse (Wireless, Rechargeable)",
+    "price": 7499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAfkTifmQq6YyiaiFSXlMH8uIiYNjVH7dsQ&s",
+    "category": "Accessories",
+    "brand": "Apple",
+    "stock": 22,
+    "rating": 4.5,
+    "reviews": 1200,
+    "description": "The Apple Magic Mouse is sleek, rechargeable, and perfect for Mac users. Multi-touch support lets you swipe and scroll effortlessly with minimal design."
+  }
+
+
+]
